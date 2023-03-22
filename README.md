@@ -3,6 +3,7 @@
   <br>
   <img src="images/triangle_10k.png" alt="Sierpiński triangle made from 10,000 dots"> 
 
+
 # Sierpiński triangle - Chaos game
 
 
@@ -35,6 +36,7 @@
 * It is beautiful to watch it grow.
 
 ![Animated gif of 10,000 dot sierpinski triangle being drawn](images/10kdots_animation.gif)
+*(sped up animation of 10,000 dot triangle(10 minutes))*
 
 ## Sierpiński triangle
 
