@@ -17,8 +17,6 @@
 </p>
 
 
-<!-- [![Youtube video thumbnail and link](https://img.youtube.com/vi/IahznK-ZSKU/0.jpg)](https://www.youtube.com/watch?v=IahznK-ZSKU) -->
-
 
 ## Key Features
 
@@ -35,6 +33,8 @@
 * time is used to measure how long the program takes in seconds.
 * 'done()' is used at the end to keep the canvas open when finished.
 * It is beautiful to watch it grow.
+
+![Animated gif of 10,000 dot sierpinski triangle being drawn](images/10kdots_animation.gif)
 
 ## Sierpiński triangle
 
